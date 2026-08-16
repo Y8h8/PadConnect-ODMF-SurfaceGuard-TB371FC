@@ -5,3 +5,9 @@ build/
 __pycache__/
 *.pyc
 PadConnect_ODMF_SurfaceGuard*_Magisk*.zip
+# 本地 Android Platform Tools，不上传 GitHub
+platform-tools/
+adb.exe
+AdbWinApi.dll
+AdbWinUsbApi.dll
+fastboot.exe
