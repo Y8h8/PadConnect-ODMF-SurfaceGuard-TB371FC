@@ -148,3 +148,10 @@ adb reboot
 
 本仓库中由作者编写的构建脚本、模块模板和文档使用 [MIT License](LICENSE)。
 该许可证不覆盖任何第三方固件、应用、商标或厂商文件，详见 [NOTICE.md](NOTICE.md)。
+
+## 问题
+<img width="1280" height="800" alt="9d4a4d0ef4e376e8758235a1f32ec2ab_720" src="https://github.com/user-attachments/assets/beaa520b-e8c9-4116-8e69-5b713aa04acb" />
+
+## 解决后
+<img width="1280" height="800" alt="dca3460c5e3269d9c40a99d33e667a86_720" src="https://github.com/user-attachments/assets/78bd1691-8792-421f-be27-f1264131eb94" />
+<img width="1280" height="800" alt="790b4ff2264a23ad5e5f480d15108c1c_720" src="https://github.com/user-attachments/assets/cb6fea9e-71fa-4b9a-92cb-8b08c3a44c30" />
