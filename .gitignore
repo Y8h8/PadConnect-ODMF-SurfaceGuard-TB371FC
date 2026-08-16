@@ -1,0 +1,7 @@
+stock_odmf.jar
+odmf.jar
+dist/
+build/
+__pycache__/
+*.pyc
+PadConnect_ODMF_SurfaceGuard*_Magisk*.zip

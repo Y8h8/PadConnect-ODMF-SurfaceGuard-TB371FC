@@ -1,0 +1,6 @@
+id=padconnect_odmf_surfaceguard
+name=PadConnect ODMF SurfaceGuard
+version=1.0
+versionCode=1
+author=hao
+description=Fix PadConnect control-without-picture on the third-party TB371FC ColorOS 15.0.1.801 port by guarding the Surface decoder color-format path.
