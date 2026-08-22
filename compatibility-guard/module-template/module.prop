@@ -1,0 +1,6 @@
+id=padconnect_odmf_surfaceguard
+name=PadConnect ODMF SurfaceGuard + Display Guard
+version=1.1-test
+versionCode=11
+author=hao
+description=Combined TB371FC PadConnect fix using the original SurfaceGuard module ID: ODMF SurfaceGuard plus StableDisplaySize 1840x2944 correction for the verified ColorOS 15.0.1.801 Final port.
